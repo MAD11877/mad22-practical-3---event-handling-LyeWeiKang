@@ -5,6 +5,7 @@ import androidx.appcompat.app.AppCompatActivity;
 import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
+import android.widget.Button;
 import android.widget.TextView;
 import android.widget.Toast;
 
@@ -21,6 +22,15 @@ public class MainActivity extends AppCompatActivity {
         Intent receivingEnd=getIntent();
         int randomValue=receivingEnd.getIntExtra("key",-1);
         textView1.setText(user1.name+randomValue);
+        Button Message=findViewById(R.id.Message);
+        Message.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent intent=new Intent(MainActivity.this,MessageGroup.class);
+                startActivity(intent);
+
+            }
+        });
 
 
     }

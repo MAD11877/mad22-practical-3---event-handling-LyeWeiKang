@@ -59,12 +59,12 @@
             android:layout_marginTop="16dp"
             android:onClick="Click"
             android:text="Follow"
-            app:layout_constraintEnd_toStartOf="@+id/button5"
+            app:layout_constraintEnd_toStartOf="@+id/Message"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/displaydescription" />
 
         <Button
-            android:id="@+id/button5"
+            android:id="@+id/Message"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="16dp"

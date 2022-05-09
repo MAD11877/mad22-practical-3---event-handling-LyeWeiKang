@@ -4,6 +4,10 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/Wei Kang/Documents/MAD/mad22-practical-3---event-handling-LyeWeiKang/app/src/main/res/layout/activity_main.xml" value="0.10364583333333334" />
+        <entry key="..\:/Users/Wei Kang/Documents/MAD/mad22-practical-3---event-handling-LyeWeiKang/app/src/main/res/layout/activity_message_group.xml" value="0.2" />
+        <entry key="..\:/Users/Wei Kang/Documents/MAD/mad22-practical-3---event-handling-LyeWeiKang/app/src/main/res/layout/fragment_g_r_o_u_p1.xml" value="0.10364583333333334" />
+        <entry key="..\:/Users/Wei Kang/Documents/MAD/mad22-practical-3---event-handling-LyeWeiKang/app/src/main/res/layout/fragment_group1.xml" value="0.1" />
+        <entry key="..\:/Users/Wei Kang/Documents/MAD/mad22-practical-3---event-handling-LyeWeiKang/app/src/main/res/layout/fragment_group2.xml" value="0.10364583333333334" />
       </map>
     </option>
   </component>
